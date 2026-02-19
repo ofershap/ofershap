@@ -1,8 +1,8 @@
 ### Hey, I'm Ofer
 
-AI Engineering Team Lead. Building tiny, typed, focused open source tools.
+AI Engineering Team Lead. Building tiny, typed, focused open source tools — MCP servers, React hooks, TypeScript libraries, and GitHub Actions.
 
-TypeScript | React | Node.js | MCP
+TypeScript | React | Node.js | MCP Servers | Open Source
 
 ---
 
