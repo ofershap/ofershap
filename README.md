@@ -1,56 +1,64 @@
-### Hey, I'm Ofer
+## Hey, I'm Ofer 👋
 
-AI Engineering Team Lead. Building tiny, typed, focused open source tools — MCP servers, React hooks, TypeScript libraries, and GitHub Actions.
+AI Engineering Team Lead by day. Open source builder by night.
 
-TypeScript | React | Node.js | MCP Servers | Open Source
+I make tiny, typed, focused tools — MCP servers, TypeScript libraries, React hooks, and GitHub Actions.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofershap/)
+[![GitShow](https://img.shields.io/badge/Portfolio-gitshow.dev-00C896?style=for-the-badge)](https://gitshow.dev/ofershap)
 
 ---
 
-#### MCP Servers
+### 🔥 Featured
 
-| Server | What it does |
-|--------|-------------|
-| [mcp-server-devutils](https://github.com/ofershap/mcp-server-devutils) | 17 zero-auth dev utilities — base64, UUID, hash, JWT decode, cron, timestamps |
-| [mcp-server-cloudflare](https://github.com/ofershap/mcp-server-cloudflare) | Manage Workers, KV, R2, DNS, and cache from your IDE |
-| [mcp-server-npm](https://github.com/ofershap/mcp-server-npm) | Search packages, compare, check downloads, inspect deps |
-| [mcp-server-github-gist](https://github.com/ofershap/mcp-server-github-gist) | Create, read, update, list, and search GitHub Gists |
+<table>
+<tr>
+<td width="50%">
 
-#### GitHub Actions
+**[GitShow](https://github.com/ofershap/gitshow)** — Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
 
-| Action | What it does |
-|--------|-------------|
-| [ai-pr-reviewer](https://github.com/ofershap/ai-pr-reviewer) | AI-powered PR review — posts inline comments on bugs and code smells |
-| [ai-commit-msg](https://github.com/ofershap/ai-commit-msg) | AI-generated commit messages and PR summaries |
+[![GitShow Preview](https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png)](https://gitshow.dev/ofershap)
 
-#### TypeScript Libraries
+</td>
+<td width="50%">
 
-| Library | What it does | Size |
-|---------|-------------|------|
-| [ts-nano-event](https://github.com/ofershap/ts-nano-event) | Typed event emitter with full inference | 163 B |
-| [ts-result](https://github.com/ofershap/ts-result) | Rust-style `Result<T, E>` — error handling without try/catch | ~900 B |
-| [deep-diff-ts](https://github.com/ofershap/deep-diff-ts) | Fast deep object diff with typed changes | ~1.4 KB |
-| [env-guard](https://github.com/ofershap/env-guard) | Validate .env files against .env.example or JSON schema | CLI + lib |
-| [hover-effects](https://github.com/ofershap/hover-effects) | Canvas-based image hover effects — ASCII, pixelate, glitch | ~3 KB |
+**[Cursor Usage Tracker](https://github.com/ofershap/cursor-usage-tracker)** — Monitor Cursor IDE spending across your team. Anomaly detection, Slack alerts, self-hosted.
 
-#### React
+**[AI PR Reviewer](https://github.com/ofershap/ai-pr-reviewer)** — GitHub Action that reviews PRs with AI — posts inline comments on bugs and code smells.
 
-| Library | What it does |
-|---------|-------------|
-| [spotlight-card](https://github.com/ofershap/spotlight-card) | Mouse-tracking radial gradient card — component + headless hook |
-| [use-stepper](https://github.com/ofershap/use-stepper) | Multi-step form/wizard hook — headless, type-safe |
-| [react-rtl-utils](https://github.com/ofershap/react-rtl-utils) | RTL layout utilities — direction detection, bidi text, positioning |
+**[create-mcp-server-pro](https://github.com/ofershap/create-mcp-server-pro)** — Scaffold production-ready MCP servers in one command.
 
-#### Hebrew / i18n
+</td>
+</tr>
+</table>
 
-| Project | What it does |
-|---------|-------------|
-| [hebrew-dates](https://github.com/ofershap/hebrew-dates) | Hebrew/Jewish calendar — date conversion, holidays, formatting |
-| [hebrew-slugify](https://github.com/ofershap/hebrew-slugify) | Transliterate Hebrew text into URL-safe slugs |
-| [hebrew-slugify-wp](https://github.com/ofershap/hebrew-slugify-wp) | WordPress plugin for Hebrew slug transliteration |
-| [awesome-hebrew-dev](https://github.com/ofershap/awesome-hebrew-dev) | Curated list of Hebrew developer resources |
+---
 
-#### Tooling
+### 🧰 What I Build
 
-| Project | What it does |
-|---------|-------------|
-| [remotion-readme-kit](https://github.com/ofershap/remotion-readme-kit) | Remotion templates for animated README demos |
+| Category | Projects |
+|----------|----------|
+| **MCP Servers** | [devutils](https://github.com/ofershap/mcp-server-devutils) · [cloudflare](https://github.com/ofershap/mcp-server-cloudflare) · [npm](https://github.com/ofershap/mcp-server-npm) · [github-gist](https://github.com/ofershap/mcp-server-github-gist) |
+| **GitHub Actions** | [ai-pr-reviewer](https://github.com/ofershap/ai-pr-reviewer) · [ai-commit-msg](https://github.com/ofershap/ai-commit-msg) · [ai-changelog](https://github.com/ofershap/ai-changelog) |
+| **TypeScript** | [ts-nano-event](https://github.com/ofershap/ts-nano-event) `163B` · [ts-result](https://github.com/ofershap/ts-result) `900B` · [deep-diff-ts](https://github.com/ofershap/deep-diff-ts) · [env-guard](https://github.com/ofershap/env-guard) |
+| **React** | [spotlight-card](https://github.com/ofershap/spotlight-card) · [use-stepper](https://github.com/ofershap/use-stepper) · [hover-effects](https://github.com/ofershap/hover-effects) |
+| **Hebrew / i18n** | [hebrew-dates](https://github.com/ofershap/hebrew-dates) · [hebrew-slugify](https://github.com/ofershap/hebrew-slugify) · [awesome-hebrew-dev](https://github.com/ofershap/awesome-hebrew-dev) |
+
+---
+
+### 💻 Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP_Servers-4A154B?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://gitshow.dev/ofershap">
+    <img src="https://gitshow.dev/api/card/ofershap" alt="GitShow Card" />
+  </a>
+</p>
