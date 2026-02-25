@@ -1,4 +1,4 @@
-## Hey, I'm Ofer 👋
+## Hey, I'm Ofer Shapira 👋
 
 AI Engineering Team Lead by day. Open source builder by night.
 
