@@ -2,7 +2,7 @@
 
 AI Engineering Team Lead by day. Open source builder by night.
 
-I make tiny, typed, focused tools — MCP servers, TypeScript libraries, React hooks, and GitHub Actions.
+I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hooks, and GitHub Actions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofershap/)
 [![GitShow](https://img.shields.io/badge/Portfolio-gitshow.dev-00C896?style=for-the-badge)](https://gitshow.dev/ofershap)
@@ -15,18 +15,18 @@ I make tiny, typed, focused tools — MCP servers, TypeScript libraries, React h
 <tr>
 <td width="50%">
 
-**[GitShow](https://github.com/ofershap/gitshow)** — Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
+**[GitShow](https://github.com/ofershap/gitshow)** - Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
 
 [![GitShow Preview](https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png)](https://gitshow.dev/ofershap)
 
 </td>
 <td width="50%">
 
-**[Cursor Usage Tracker](https://github.com/ofershap/cursor-usage-tracker)** — Monitor Cursor IDE spending across your team. Anomaly detection, Slack alerts, self-hosted.
+**[Cursor Usage Tracker](https://github.com/ofershap/cursor-usage-tracker)** - Monitor Cursor IDE spending across your team. Anomaly detection, Slack alerts, self-hosted.
 
-**[AI PR Reviewer](https://github.com/ofershap/ai-pr-reviewer)** — GitHub Action that reviews PRs with AI — posts inline comments on bugs and code smells.
+**[AI PR Reviewer](https://github.com/ofershap/ai-pr-reviewer)** - GitHub Action that reviews PRs with AI - posts inline comments on bugs and code smells.
 
-**[create-mcp-server-pro](https://github.com/ofershap/create-mcp-server-pro)** — Scaffold production-ready MCP servers in one command.
+**[create-mcp-server-pro](https://github.com/ofershap/create-mcp-server-pro)** - Scaffold production-ready MCP servers in one command.
 
 </td>
 </tr>
