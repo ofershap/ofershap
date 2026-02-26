@@ -15,7 +15,7 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 <tr>
 <td width="50%">
 
-**[GitShow](https://github.com/ofershap/gitshow)** - Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
+**[GitShow](https://gitshow.dev)** - Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
 
 [![GitShow Preview](https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png)](https://gitshow.dev/ofershap)
 
