@@ -13,24 +13,25 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[GitShow](https://gitshow.dev)** - Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
+**[GitShow](https://gitshow.dev)** – Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
 
-[![GitShow Preview](https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png)](https://gitshow.dev/ofershap)
+<a href="https://gitshow.dev/ofershap"><img src="https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png" width="400" /></a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**[Cursor Office](https://github.com/ofershap/cursor-office)** - A living pixel-art office for your Cursor AI agent. Watch it work, click things, discover easter eggs.
+**[Cursor Office](https://github.com/ofershap/cursor-office)** – A living pixel-art office for your Cursor AI agent. Watch it work, click things, discover easter eggs.
 
-[![Cursor Office Preview](https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/demo.gif)](https://github.com/ofershap/cursor-office)
+<a href="https://github.com/ofershap/cursor-office"><img src="https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/demo.gif" width="400" /></a>
 
 </td>
 </tr>
 </table>
 
 <p align="center">
+  <sub>More cool projects:</sub><br/>
   <a href="https://github.com/ofershap/cursor-usage-tracker">cursor-usage-tracker</a> · <a href="https://github.com/ofershap/clawgether">clawgether</a> · <a href="https://github.com/ofershap/remotion-readme-kit">remotion-readme-kit</a>
 </p>
 
