@@ -24,7 +24,7 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 **[Cursor Office](https://github.com/ofershap/cursor-office)** – A living pixel-art office for your Cursor AI agent. Watch it work, click things, discover easter eggs.
 
-[![Cursor Office Preview](https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/preview.png)](https://github.com/ofershap/cursor-office)
+<a href="https://github.com/ofershap/cursor-office"><img src="https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/demo.gif" width="100%" /></a>
 
 </td>
 </tr>
