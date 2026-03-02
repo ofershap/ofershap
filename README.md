@@ -22,15 +22,17 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 </td>
 <td width="50%">
 
-**[Cursor Usage Tracker](https://github.com/ofershap/cursor-usage-tracker)** - Monitor Cursor IDE spending across your team. Anomaly detection, Slack alerts, self-hosted.
+**[Cursor Office](https://github.com/ofershap/cursor-office)** - A living pixel-art office for your Cursor AI agent. Watch it work, click things, discover easter eggs.
 
-**[AI PR Reviewer](https://github.com/ofershap/ai-pr-reviewer)** - GitHub Action that reviews PRs with AI - posts inline comments on bugs and code smells.
-
-**[create-mcp-server-pro](https://github.com/ofershap/create-mcp-server-pro)** - Scaffold production-ready MCP servers in one command.
+[![Cursor Office Preview](https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/demo.gif)](https://github.com/ofershap/cursor-office)
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/ofershap/cursor-usage-tracker">cursor-usage-tracker</a> · <a href="https://github.com/ofershap/clawgether">clawgether</a> · <a href="https://github.com/ofershap/remotion-readme-kit">remotion-readme-kit</a>
+</p>
 
 ---
 
