@@ -17,14 +17,14 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 **[GitShow](https://gitshow.dev)** – Replace `github.com` with `gitshow.dev` in any profile URL for a beautiful developer portfolio.
 
-<a href="https://gitshow.dev/ofershap"><img src="https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png" height="180" /></a>
+<a href="https://gitshow.dev/ofershap"><img src="https://raw.githubusercontent.com/ofershap/gitshow/main/assets/preview.png" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
 
 **[Cursor Office](https://github.com/ofershap/cursor-office)** – A living pixel-art office for your Cursor AI agent. Watch it work, click things, discover easter eggs.
 
-<a href="https://github.com/ofershap/cursor-office"><img src="https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/demo.gif" height="180" /></a>
+<a href="https://github.com/ofershap/cursor-office"><img src="https://raw.githubusercontent.com/ofershap/cursor-office/main/assets/demo.gif" width="100%" /></a>
 
 </td>
 </tr>
