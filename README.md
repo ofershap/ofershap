@@ -28,11 +28,27 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Cursor Usage Tracker](https://github.com/ofershap/cursor-usage-tracker)** – See what your team spends on Cursor. Per-dev cost tracking and Slack alerts.
+
+<a href="https://github.com/ofershap/cursor-usage-tracker"><img src="https://raw.githubusercontent.com/ofershap/cursor-usage-tracker/main/assets/demo.gif" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Real Browser MCP](https://github.com/ofershap/real-browser-mcp)** – Let AI agents use your real Chrome. Your tabs, your logins, nothing headless.
+
+<a href="https://github.com/ofershap/real-browser-mcp"><img src="https://raw.githubusercontent.com/ofershap/real-browser-mcp/main/assets/demo.gif" width="100%" /></a>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
   <sub>More cool projects:</sub><br/>
-  <a href="https://github.com/ofershap/cursor-usage-tracker">cursor-usage-tracker</a> · <a href="https://github.com/ofershap/clawgether">clawgether</a> · <a href="https://github.com/ofershap/remotion-readme-kit">remotion-readme-kit</a>
+  <a href="https://github.com/ofershap/ai-humanizer">ai-humanizer</a> · <a href="https://github.com/ofershap/clawgether">clawgether</a> · <a href="https://github.com/ofershap/remotion-readme-kit">remotion-readme-kit</a>
 </p>
 
 ---
