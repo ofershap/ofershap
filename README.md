@@ -31,7 +31,7 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 <tr>
 <td width="50%" valign="top">
 
-**[Agents Control Tower](https://github.com/ofershap/agents-control-tower)** – Your Cursor cloud agents are running. One terminal to watch, launch, stop, and command them all.
+**[Agents Control Tower](https://github.com/ofershap/agents-control-tower)** – One terminal to watch, launch, stop, and command all your Cursor cloud agents.
 
 <a href="https://github.com/ofershap/agents-control-tower"><img src="https://raw.githubusercontent.com/ofershap/agents-control-tower/main/assets/screenshot.png" width="100%" /></a>
 
