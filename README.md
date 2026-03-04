@@ -40,7 +40,7 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 **[Real Browser MCP](https://github.com/ofershap/real-browser-mcp)** – Let AI agents use your real Chrome. Your tabs, your logins, nothing headless.
 
-<a href="https://github.com/ofershap/real-browser-mcp"><img src="https://raw.githubusercontent.com/ofershap/real-browser-mcp/main/assets/demo.gif" width="100%" /></a>
+<a href="https://github.com/ofershap/real-browser-mcp"><img src="https://raw.githubusercontent.com/ofershap/real-browser-mcp/main/assets/preview.png" width="100%" /></a>
 
 </td>
 </tr>
