@@ -46,11 +46,27 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Cursor Usage Tracker](https://github.com/ofershap/cursor-usage-tracker)** – Monitor Cursor IDE spending, detect anomalies, alert your team. Self-hosted.
+
+<a href="https://github.com/ofershap/cursor-usage-tracker"><img src="https://raw.githubusercontent.com/ofershap/cursor-usage-tracker/main/assets/demo.gif" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[README Builder](https://ofershap.github.io/readme-builder)** – Drag-and-drop visual README editor with live GitHub-flavored preview. Try it in your browser.
+
+<a href="https://ofershap.github.io/readme-builder"><img src="https://raw.githubusercontent.com/ofershap/readme-builder/main/assets/screenshot.png" width="100%" /></a>
+
+</td>
+</tr>
 </table>
 
 <p align="center">
   <sub>More cool projects:</sub><br/>
-  <a href="https://github.com/ofershap/ai-humanizer">ai-humanizer</a> · <a href="https://github.com/ofershap/clawgether">clawgether</a> · <a href="https://github.com/ofershap/cursor-usage-tracker">cursor-usage-tracker</a>
+  <a href="https://github.com/ofershap/ai-humanizer">ai-humanizer</a> · <a href="https://github.com/ofershap/clawgether">clawgether</a> · <a href="https://github.com/ofershap/ai-context-kit">ai-context-kit</a>
 </p>
 
 ---
@@ -59,7 +75,7 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 | Category | Projects |
 |----------|----------|
-| **Dev Tools** | [gitshow](https://github.com/ofershap/gitshow) · [agents-control-tower](https://github.com/ofershap/agents-control-tower) · [cursor-office](https://github.com/ofershap/cursor-office) · [real-browser-mcp](https://github.com/ofershap/real-browser-mcp) · [cursor-usage-tracker](https://github.com/ofershap/cursor-usage-tracker) · [clawgether](https://github.com/ofershap/clawgether) |
+| **Dev Tools** | [gitshow](https://github.com/ofershap/gitshow) · [agents-control-tower](https://github.com/ofershap/agents-control-tower) · [cursor-office](https://github.com/ofershap/cursor-office) · [real-browser-mcp](https://github.com/ofershap/real-browser-mcp) · [cursor-usage-tracker](https://github.com/ofershap/cursor-usage-tracker) · [readme-builder](https://github.com/ofershap/readme-builder) · [clawgether](https://github.com/ofershap/clawgether) |
 | **MCP Servers** | [devutils](https://github.com/ofershap/mcp-server-devutils) · [cloudflare](https://github.com/ofershap/mcp-server-cloudflare) · [npm](https://github.com/ofershap/mcp-server-npm) · [github-gist](https://github.com/ofershap/mcp-server-github-gist) · [docker](https://github.com/ofershap/mcp-server-docker) · [s3](https://github.com/ofershap/mcp-server-s3) · [github-actions](https://github.com/ofershap/mcp-server-github-actions) · [+more](https://github.com/ofershap?tab=repositories&q=mcp-server) |
 | **GitHub Actions** | [ai-pr-reviewer](https://github.com/ofershap/ai-pr-reviewer) · [ai-commit-msg](https://github.com/ofershap/ai-commit-msg) · [ai-changelog](https://github.com/ofershap/ai-changelog) · [ai-label-pr](https://github.com/ofershap/ai-label-pr) |
 | **TypeScript** | [ts-nano-event](https://github.com/ofershap/ts-nano-event) `163B` · [ts-result](https://github.com/ofershap/ts-result) `900B` · [deep-diff-ts](https://github.com/ofershap/deep-diff-ts) · [env-guard](https://github.com/ofershap/env-guard) · [ai-context-kit](https://github.com/ofershap/ai-context-kit) |
