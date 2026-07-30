@@ -2,7 +2,7 @@
 
 AI Engineering Team Lead by day. Open source builder by night.
 
-I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hooks, and GitHub Actions.
+I make tiny, typed tools for AI agents - Cursor extensions, MCP servers, and TypeScript libraries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofershap/)
 [![GitShow](https://img.shields.io/badge/Portfolio-gitshow.dev-00C896?style=for-the-badge)](https://gitshow.dev/ofershap)
