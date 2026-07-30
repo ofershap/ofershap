@@ -31,9 +31,9 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 <tr>
 <td width="50%" valign="top">
 
-**[Agents Control Tower](https://github.com/ofershap/agents-control-tower)** – One terminal to watch, launch, stop, and command all your Cursor cloud agents.
+**[Context Snack](https://github.com/ofershap/context-snack)** – Micro-learnings feed that pops up while your Cursor agent works. Swipe through changelogs, AI news, and Hacker News instead of staring at a spinner.
 
-<a href="https://github.com/ofershap/agents-control-tower"><img src="https://raw.githubusercontent.com/ofershap/agents-control-tower/main/assets/screenshot.png" width="100%" /></a>
+<a href="https://github.com/ofershap/context-snack"><img src="https://raw.githubusercontent.com/ofershap/context-snack/main/assets/demo.gif" width="100%" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -43,6 +43,22 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 <br/>
 
 <a href="https://github.com/ofershap/real-browser-mcp"><img src="https://raw.githubusercontent.com/ofershap/real-browser-mcp/main/assets/preview.png" width="100%" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Agents Control Tower](https://github.com/ofershap/agents-control-tower)** – One terminal to watch, launch, stop, and command all your Cursor cloud agents.
+
+<a href="https://github.com/ofershap/agents-control-tower"><img src="https://raw.githubusercontent.com/ofershap/agents-control-tower/main/assets/screenshot.png" width="100%" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Docker MCP](https://github.com/ofershap/mcp-server-docker)** – Control Docker containers, images, and logs from your AI coding assistant. No API keys, just your local socket.
+
+<a href="https://github.com/ofershap/mcp-server-docker"><img src="https://raw.githubusercontent.com/ofershap/mcp-server-docker/main/assets/demo.gif" width="100%" /></a>
 
 </td>
 </tr>
@@ -75,7 +91,7 @@ I make tiny, typed, focused tools - MCP servers, TypeScript libraries, React hoo
 
 | Category | Projects |
 |----------|----------|
-| **Dev Tools** | [gitshow](https://github.com/ofershap/gitshow) · [agents-control-tower](https://github.com/ofershap/agents-control-tower) · [cursor-office](https://github.com/ofershap/cursor-office) · [real-browser-mcp](https://github.com/ofershap/real-browser-mcp) · [cursor-usage-tracker](https://github.com/ofershap/cursor-usage-tracker) · [readme-builder](https://github.com/ofershap/readme-builder) · [clawgether](https://github.com/ofershap/clawgether) |
+| **Dev Tools** | [gitshow](https://github.com/ofershap/gitshow) · [agents-control-tower](https://github.com/ofershap/agents-control-tower) · [cursor-office](https://github.com/ofershap/cursor-office) · [real-browser-mcp](https://github.com/ofershap/real-browser-mcp) · [context-snack](https://github.com/ofershap/context-snack) · [cursor-usage-tracker](https://github.com/ofershap/cursor-usage-tracker) · [readme-builder](https://github.com/ofershap/readme-builder) · [clawgether](https://github.com/ofershap/clawgether) |
 | **MCP Servers** | [devutils](https://github.com/ofershap/mcp-server-devutils) · [cloudflare](https://github.com/ofershap/mcp-server-cloudflare) · [npm](https://github.com/ofershap/mcp-server-npm) · [github-gist](https://github.com/ofershap/mcp-server-github-gist) · [docker](https://github.com/ofershap/mcp-server-docker) · [s3](https://github.com/ofershap/mcp-server-s3) · [github-actions](https://github.com/ofershap/mcp-server-github-actions) · [+more](https://github.com/ofershap?tab=repositories&q=mcp-server) |
 | **GitHub Actions** | [ai-pr-reviewer](https://github.com/ofershap/ai-pr-reviewer) · [ai-commit-msg](https://github.com/ofershap/ai-commit-msg) · [ai-changelog](https://github.com/ofershap/ai-changelog) · [ai-label-pr](https://github.com/ofershap/ai-label-pr) |
 | **TypeScript** | [ts-nano-event](https://github.com/ofershap/ts-nano-event) `163B` · [ts-result](https://github.com/ofershap/ts-result) `900B` · [deep-diff-ts](https://github.com/ofershap/deep-diff-ts) · [env-guard](https://github.com/ofershap/env-guard) · [ai-context-kit](https://github.com/ofershap/ai-context-kit) |
