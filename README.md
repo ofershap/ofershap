@@ -4,6 +4,8 @@ AI Engineering Team Lead by day. Open source builder by night.
 
 I make tiny, typed tools for AI agents - Cursor extensions, MCP servers, and TypeScript libraries.
 
+<div dir="rtl">עופר שפירא - The Israeli AI Agency - התאמה והתקנת סוכני AI לעסקים קטנים בישראל, בעברית, עם ליווי לאורך זמן: <a href="https://israeli-ai-agency.pages.dev/">israeli-ai-agency.pages.dev</a></div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ofershap/)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://ofershap.github.io/)
 [![GitShow](https://img.shields.io/badge/Portfolio-gitshow.dev-00C896?style=for-the-badge)](https://gitshow.dev/ofershap)
